@@ -5,8 +5,8 @@
 To write a C program to implement Page Replacement technique using FIFO
 # ALGORITHM:
 
-    Start the program.
-    Get the number of pages and their sequence from the user
+   1. Start the program.
+    2. Get the number of pages and their sequence from the user
     Get the number of available page frames from the user.
     In FIFO, on the basics of first in first out, replace the pages respectively, then find number of page faults occurred.
     Compare all frames with incoming page 6. If the incoming page is already available in page frame, set the match flag to indicate ‘no need of page replacement’.
